@@ -26,3 +26,7 @@
       .subscribe(console.log);
       }
     }
+
+
+link: 
+https://www.npmjs.com/package/ng2-http-interceptor
